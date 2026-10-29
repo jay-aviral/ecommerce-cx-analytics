@@ -1,0 +1,10 @@
+,std_coefficient
+delay_days,1.38
+is_late,1.06
+contacts,1.05
+new_cust,0.51
+severe_issue,0.37
+returned,0.31
+tier3,0.21
+fcr,-0.16
+has_ticket,-0.5

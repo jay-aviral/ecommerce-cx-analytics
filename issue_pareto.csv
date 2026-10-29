@@ -1,0 +1,9 @@
+issue_category,tickets,avg_res_hrs,fcr_pct,pct,cum_pct,avg_csat
+Late Delivery,1270,35.5,73.9,26.7,26.7,2.37
+Order Tracking,973,35.7,74.2,20.4,47.1,2.76
+Refund Delay,513,96.5,48.0,10.8,57.9,2.72
+Damaged Item,451,95.4,52.5,9.5,67.4,2.72
+Product Quality,449,36.5,76.4,9.4,76.8,3.33
+Wrong Item,399,93.7,51.6,8.4,85.2,2.77
+App/Website Issue,380,36.3,73.2,8.0,93.2,3.33
+Payment Failure,323,94.9,54.2,6.8,100.0,3.26
